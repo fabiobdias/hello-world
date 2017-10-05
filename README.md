@@ -2,7 +2,7 @@
 tutorial github
 
 # about me
-I'm a 30 years old oceanographer, in the middle of my phd road. I started using github as a way to keep a backupt of all tools package I've created to run and analyse the ocean-sea ice models I've run. My main interest are:
+I'm a 30 years old oceanographer, in the middle of my phd road. I started using github as a way to keep a backup of all tools package I've created to run and analyse the ocean-sea ice models. My main interest are:
 
 1) Numerical models:
 - Modullar Ocean Model (MOM)
